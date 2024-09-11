@@ -1,0 +1,1205 @@
+
+<!DOCTYPE html> 
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Africa University is a pan-African institution dedicated to investing in Africa's future by offering degree programs designed to develop leaders who drive positive change in Africa. It has a diverse student body and faculty from across the continent with a mission to address continental challenges and foster unity through education."/>
+        <meta name="keywords" content="Africa University, AU, universities in Zimbabwe, higher and tertiary education, education 5.0, Innovation, industrialisation, strategic partnerships, pan-african, culture, leadership, law, journalism, social work, international relations, artificial intelligence, diplomacy, mediation, peace, medical laboratory sciences, software engineering, education, music, human resources, management, executive business management, nursing, online programmes, fees at AU, acacia, africa's future, school of hope, valley of dreams, our people our values, Ubuntu, excellence">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://africau.edu/xmlrpc.php">
+
+        <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Africa University</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Africa University" />
+	<meta property="og:site_name" content="Africa University" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://africau.edu/#website","url":"https://africau.edu/","name":"Africa University","description":"Investing In Africa&#039;s Future","publisher":{"@id":"https://africau.edu/#organization"},"alternateName":"AU","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://africau.edu/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://africau.edu/#organization","name":"Africa University","alternateName":"AU","url":"https://africau.edu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://africau.edu/#/schema/logo/image/","url":"https://africau.edu/wp-content/uploads/2023/08/cropped-AU-Logo-trans-bckgr-4.png","contentUrl":"https://africau.edu/wp-content/uploads/2023/08/cropped-AU-Logo-trans-bckgr-4.png","width":169,"height":155,"caption":"Africa University"},"image":{"@id":"https://africau.edu/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/africauniversityzimbabwe/","https://x.com/africa_univ","https://www.instagram.com/africauniversity/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/africau.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='sbr_styles-css' href='https://africau.edu/wp-content/plugins/reviews-feed/assets/css/sbr-styles.css?ver=1.2.0' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://africau.edu/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.2.4' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://africau.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='pb_animate-css' href='https://africau.edu/wp-content/plugins/ays-popup-box/public/css/animate.css?ver=4.7.8' media='all' />
+<link rel='stylesheet' id='ctf_styles-css' href='https://africau.edu/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.2.2' media='all' />
+<link rel='stylesheet' id='cff-css' href='https://africau.edu/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?ver=4.2.5' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://africau.edu/wp-content/uploads/maxmegamenu/style.css?ver=31512b' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://africau.edu/wp-includes/css/dashicons.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='megamenu-genericons-css' href='https://africau.edu/wp-content/plugins/megamenu-pro/icons/genericons/genericons/genericons.css?ver=2.2.8' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome-css' href='https://africau.edu/wp-content/plugins/megamenu-pro/icons/fontawesome/css/font-awesome.min.css?ver=2.2.8' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome5-css' href='https://africau.edu/wp-content/plugins/megamenu-pro/icons/fontawesome5/css/all.min.css?ver=2.2.8' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css' href='https://africau.edu/wp-content/themes/africau/css/bootstrap.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='africau-css-css' href='https://africau.edu/wp-content/themes/africau/css/africau.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='owl-css-css' href='https://africau.edu/wp-content/themes/africau/css/owl.carousel.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='navigation-css-css' href='https://africau.edu/wp-content/themes/africau/css/navigation.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='footer-css-css' href='https://africau.edu/wp-content/themes/africau/css/footer.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='search-css-css' href='https://africau.edu/wp-content/themes/africau/css/searchform.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css?ver=6.6.2' media='all' />
+<script src="https://africau.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://africau.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="ays-pb-js-extra">
+var pbLocalizeObj = {"ajax":"https:\/\/africau.edu\/wp-admin\/admin-ajax.php","seconds":"seconds","thisWillClose":"This will close in","icons":{"close_icon":"<svg class=\"ays_pb_material_close_icon\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"36px\" viewBox=\"0 0 24 24\" width=\"36px\" fill=\"#000000\" alt=\"Pop-up Close\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"\/><\/svg>","close_circle_icon":"<svg class=\"ays_pb_material_close_circle_icon\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"36\" alt=\"Pop-up Close\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z\"\/><\/svg>","volume_up_icon":"<svg class=\"ays_pb_fa_volume\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"36\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z\"\/><\/svg>","volume_mute_icon":"<svg xmlns=\"https:\/\/www.w3.org\/2000\/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"\/><path d=\"M7 9v6h4l5 5V4l-5 5H7z\"\/><\/svg>"}};
+</script>
+<script src="https://africau.edu/wp-content/plugins/ays-popup-box/public/js/ays-pb-public.js?ver=4.7.8" id="ays-pb-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/jquery-3.4.1.slim.min.js?ver=6.6.2" id="jquery-bootstrap-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/bootstrap.min.js?ver=6.6.2" id="bootstrap-js-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/ajax-filter.js?ver=6.6.2" id="ajax-js-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/script.js?ver=6.6.2" id="script-js-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/lottie.js?ver=6.6.2" id="lottie-js-js"></script>
+<script src="https://africau.edu/wp-content/themes/africau/js/owl.carousel.min.js?ver=6.6.2" id="slider-js-js"></script>
+<meta name="generator" content="WordPress 6.6.2" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		<link rel="icon" href="https://africau.edu/wp-content/uploads/2023/09/cropped-AU-logo-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://africau.edu/wp-content/uploads/2023/09/cropped-AU-logo-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://africau.edu/wp-content/uploads/2023/09/cropped-AU-logo-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://africau.edu/wp-content/uploads/2023/09/cropped-AU-logo-1-270x270.jpg" />
+		<style id="wp-custom-css">
+			@media screen and (max-width: 350px) {
+	  .whatsapp-icon {
+/*     right: 20px !important; */
+    right: auto !important;
+    bottom: 27px !important;
+    transform: scale(1);
+			 background-color: #ffffff00 !important;
+    border: none !important;
+  }
+}
+@media only screen and (max-width: 991px) {
+	  .whatsapp-icon {
+/*     left: 20px !important; */
+    right: auto !important;
+    bottom: 27px !important;
+    transform: scale(1);
+			 background-color: #ffffff00 !important;
+    border: none !important;
+  }
+}
+@media screen and (max-width: 1260px) {
+	.whatsapp-icon {
+  position: fixed;
+  right: 1.5% !important;
+  bottom: 2% !important;
+  width: 150px !important;
+  height: 43px !important;
+  color: red !important;
+  z-index: 10000 !important;
+/*   border-radius: 100% !important; */
+		 background-color: #ffffff00 !important;
+    border: none !important;
+}
+}
+@media screen and (max-width: 480px) {
+  .whatsapp-icon {
+    right: 5.5% !important;
+		 background-color: #ffffff00 !important;
+    border: none !important;
+  }
+}
+.whatsapp-icon {
+    position: fixed;
+    right: 1.5% !important;
+    bottom: 2% !important;
+    width: 150px !important;
+    height: 70px !important;
+    color: red !important;
+    z-index: 10000 !important;
+/*     border-radius: 100% !important; */
+    background-color: #ffffff00 !important;
+    border: none !important;
+
+}
+.whatsapp-icon {
+    width: 100%;
+    height: 100%;
+/*     border-radius: 100%; */
+    font-size: 0px;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-image: url(https://africau.edu/chat-bot/assets/images/chat-icon.gif)!important;
+    display: inline-block;
+	 background-color: #ffffff00 !important;
+    border: none !important;
+}		</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+    </head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2HZX04ETKY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2HZX04ETKY');
+</script>
+    <body class="error404 wp-custom-logo mega-menu-primary">
+        
+        <div class="au-menu">
+        	
+            
+
+		<div class="top_nav">
+        	
+        <div class="container"><ul id="menu-top-menu" class="menu"><li id="menu-item-408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-408"><div class="gtranslate_wrapper" id="gt-wrapper-16869767"></div></li>
+<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a target="_blank" rel="noopener" href="https://www.paynow.co.zw/Payment/BillPaymentLink/?q=aWQ9NDk1MCZhbW91bnQ9MC4wMCZhbW91bnRfcXVhbnRpdHk9MC4wMCZmMT0mZjI9JmYzPSZsPTA%3D">Pay Online</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a target="_blank" rel="noopener" href="https://alumni.africau.edu/">Alumni</a></li>
+<li id="menu-item-3041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3041"><a target="_blank" rel="noopener" href="http://aumail.africau.edu">Webmail</a></li>
+<li id="menu-item-3234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234"><a href="https://africau.edu/vacancies/">Vacancies</a></li>
+<li class="menu-item search-menu-item"><form role="search" method="get" class="search-form" action="https://africau.edu/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search the site..." value="" name="s" />
+        <button type="submit" class="search-submit">
+            <i class="fas fa-search"></i> <!-- Font Awesome search icon -->
+        </button>
+    </label>
+</form>
+</li></li>
+</ul></div>
+        </div>
+
+        
+
+
+        <div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'>MENU</span><span class='mega-toggle-label-open'>MENU</span></span></div></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-search-block mega-toggle-block-2' id='mega-toggle-block-2'><div class='mega-search-wrap'><form class='mega-search expand-to-left mega-search-closed' action='https://africau.edu/'>
+                        <span class='dashicons dashicons-search search-icon'></span>
+                        <input type='submit' value='Search'>
+                        <input type='text' aria-label='Search' data-placeholder='Search' name='s'>
+                        
+                    </form></div></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="slide_right" data-effect-speed-mobile="200" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="955" data-unbind="true" data-mobile-state="expand_active" data-hover-intent-timeout="300" data-hover-intent-interval="100" data-sticky-enabled="true" data-sticky-desktop="true" data-sticky-mobile="true" data-sticky-offset="0" data-sticky-expand="false" data-sticky-expand-mobile="true" data-sticky-transition="false"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-hide-text mega-menu-item-425' id='mega-menu-item-425'><a class='mega-menu-link mega-menu-logo' href='https://africau.edu'><img class='mega-menu-logo' width='110' height='105' src='https://africau.edu/wp-content/uploads/2023/09/AU-logo-1-110x105.jpg' alt='Africa University' srcset='https://africau.edu/wp-content/uploads/2023/09/AU-logo-1-220x210.jpg 2x' /></a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-2968' id='mega-menu-item-2968'><a class="mega-menu-link" href="https://africau.edu/study-at-au/" aria-haspopup="true" aria-expanded="false" tabindex="0">Study At AU<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-3-of-9 mega-menu-item-386' id='mega-menu-item-386'><a class="mega-menu-link" href="#">Academic Units<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-college mega-menu-item-400' id='mega-menu-item-400'><a class="mega-menu-link" href="https://africau.edu/college/cbplg/">College of Business, Peace, Leadership and Governance</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-college mega-menu-item-401' id='mega-menu-item-401'><a class="mega-menu-link" href="https://africau.edu/college/ceas/">College of Engineering and Applied Sciences</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-college mega-menu-item-402' id='mega-menu-item-402'><a class="mega-menu-link" href="https://africau.edu/college/chans/">College of Health, Agriculture and Natural Sciences</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-college mega-menu-item-403' id='mega-menu-item-403'><a class="mega-menu-link" href="https://africau.edu/college/cssthe/">College of Social Sciences, Theology, Humanities and Education</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-college mega-menu-item-404' id='mega-menu-item-404'><a class="mega-menu-link" href="https://africau.edu/college/law/">School of Law</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-columns-2-of-9 mega-menu-item-25' id='mega-menu-item-25'><a class="mega-menu-link" href="https://africau.edu/admissions-aid/">Admissions<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-697' id='mega-menu-item-697'><a class="mega-menu-link" href="https://africau.edu/study-at-au/admission-process/">Admission Process</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-119' id='mega-menu-item-119'><a class="mega-menu-link" href="https://africau.edu/study-at-au/international-students/">International Students</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-9 mega-menu-item-2827' id='mega-menu-item-2827'><a class="mega-menu-link" href="#">Fees & Payments<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3035' id='mega-menu-item-3035'><a class="mega-menu-link" href="https://africau.edu/financial-assistance/">Financial Assistance</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-670' id='mega-menu-item-670'><a class="mega-menu-link" href="https://africau.edu/study-at-au/tuition-and-fees/">Tuition and Fees</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-9 mega-menu-item-3036' id='mega-menu-item-3036'><a class="mega-menu-link" href="#">Resources<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3037' id='mega-menu-item-3037'><a target="_blank" class="mega-menu-link" href="https://africau.edu/resource/calendar2024.pdf">AU Calendar</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3269' id='mega-menu-item-3269'><a target="_blank" class="mega-menu-link" href="https://africau.edu/resource/austrategicplan.pdf">Strategic Plan 2023-2027</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3038' id='mega-menu-item-3038'><a target="_blank" class="mega-menu-link" href="https://africau.edu/resource/auprospectus.pdf">AU Prospectus</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-228' id='mega-menu-item-228'><a class="mega-menu-link" href="https://africau.edu/research-innovation/" aria-haspopup="true" aria-expanded="false" tabindex="0">Research & Industrialisation<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-363' id='mega-menu-item-363'><a class="mega-menu-link" href="#">Research At AU<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-365' id='mega-menu-item-365'><a class="mega-menu-link" href="#">Research Projects</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3042' id='mega-menu-item-3042'><a class="mega-menu-link" href="#">Publications & Journals</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2825' id='mega-menu-item-2825'><a class="mega-menu-link" href="https://africau.edu/funding-opportunities/">Funding Opportunities</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-2820' id='mega-menu-item-2820'><a class="mega-menu-link" href="#">Research Centers<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-368' id='mega-menu-item-368'><a target="_blank" class="mega-menu-link" href="https://crrc.africau.edu/">Child Rights Research Centre</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-370' id='mega-menu-item-370'><a target="_blank" class="mega-menu-link" href="https://crc.africau.edu/">Clinical Research Center</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2868' id='mega-menu-item-2868'><a class="mega-menu-link" href="https://africau.edu/institute-of-malaria/">Malaria Institute</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-366' id='mega-menu-item-366'><a class="mega-menu-link" href="#">Research Support<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-374' id='mega-menu-item-374'><a target="_blank" class="mega-menu-link" href="https://webpac.africau.ac.zw/">Library Services</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-367' id='mega-menu-item-367'><a class="mega-menu-link" href="#">Research & Ethics Committee</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3045' id='mega-menu-item-3045'><a class="mega-menu-link" href="https://africau.edu/research-innovation/training-workshops/">Training &#038; Workshops</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-372' id='mega-menu-item-372'><a class="mega-menu-link" href="#">Innovation & Industrialisation<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-373' id='mega-menu-item-373'><a target="_blank" class="mega-menu-link" href="https://i5hub.africau.edu/">Innovation Hub (i5hub)</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2826' id='mega-menu-item-2826'><a class="mega-menu-link" href="https://africau.edu/ip-management/">IP Management</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-23' id='mega-menu-item-23'><a class="mega-menu-link" href="https://africau.edu/campus-life/" aria-haspopup="true" aria-expanded="false" tabindex="0">Campus Life<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-389' id='mega-menu-item-389'><a class="mega-menu-link" href="#">Student Services<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-123' id='mega-menu-item-123'><a class="mega-menu-link" href="https://africau.edu/campus-life/accommodation/">Accommodation</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-733' id='mega-menu-item-733'><a class="mega-menu-link" href="https://africau.edu/campus-life/food-services/">Food Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-124' id='mega-menu-item-124'><a class="mega-menu-link" href="https://africau.edu/campus-life/student-health/">Student Health</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-395' id='mega-menu-item-395'><a class="mega-menu-link" href="#">Life At AU<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-121' id='mega-menu-item-121'><a class="mega-menu-link" href="https://africau.edu/campus-life/clubs-communities/">Clubs &#038; Communities</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-122' id='mega-menu-item-122'><a class="mega-menu-link" href="https://africau.edu/campus-life/sports-recreation/">Sports &#038; Recreation</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-734' id='mega-menu-item-734'><a class="mega-menu-link" href="#">Student Leadership<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-120' id='mega-menu-item-120'><a class="mega-menu-link" href="https://africau.edu/campus-life/student-representation-council/">Student Representative Council</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-396' id='mega-menu-item-396'><a class="mega-menu-link" href="#">Student Resources<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3118' id='mega-menu-item-3118'><a target="_blank" class="mega-menu-link" href="https://support.africau.ac.zw/">IT Support Center</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-731' id='mega-menu-item-731'><a class="mega-menu-link" href="https://africau.edu/campus-life/career-guidance/">Career Center</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-22' id='mega-menu-item-22'><a class="mega-menu-link" href="https://africau.edu/about/" aria-haspopup="true" aria-expanded="false" tabindex="0">About<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-390' id='mega-menu-item-390'><a class="mega-menu-link" href="#">Our Story<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-134' id='mega-menu-item-134'><a class="mega-menu-link" href="https://africau.edu/about/history-development/">History &#038; Development</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2817' id='mega-menu-item-2817'><a class="mega-menu-link" href="https://africau.edu/about/emeriti-chancellors/">Emeriti Chancellors</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2816' id='mega-menu-item-2816'><a class="mega-menu-link" href="https://africau.edu/about/emeriti-vice-chancellors/">Emeriti Vice Chancellors</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-2802' id='mega-menu-item-2802'><a class="mega-menu-link" href="#">Governance<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2785' id='mega-menu-item-2785'><a class="mega-menu-link" href="https://africau.edu/about/board-of-directors/">Board of Directors</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2819' id='mega-menu-item-2819'><a class="mega-menu-link" href="https://africau.edu/about/chancellor/">Chancellor</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2818' id='mega-menu-item-2818'><a class="mega-menu-link" href="https://africau.edu/about/vice-chancellor/">Vice Chancellor</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-2803' id='mega-menu-item-2803'><a class="mega-menu-link" href="#">Administration<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2833' id='mega-menu-item-2833'><a class="mega-menu-link" href="https://africau.edu/about/executive-officers-of-the-university/">Executive Officers</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3237' id='mega-menu-item-3237'><a class="mega-menu-link" href="#">Registrar's Office</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2834' id='mega-menu-item-2834'><a class="mega-menu-link" href="https://africau.edu/about/academic-deans/">Academic Deans</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-columns-2-of-8 mega-menu-item-2814' id='mega-menu-item-2814'><a class="mega-menu-link" href="#">Partners<span class="mega-indicator"></span></a>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-3060' id='mega-menu-item-3060'><a class="mega-menu-link" href="https://africau.edu/about/sponsors/">Sponsors</a></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-639' id='mega-menu-item-639'><a class="btn" href="https://support.africau.org/donate-now/" target="_blank" id="make_gift">DONATE</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-376' id='mega-menu-item-376'><a class="btn" href="https://acacia.africau.ac.zw/signup/" target="_blank" id="gift">APPLY</a></li></ul></div>
+
+
+</div>
+            
+
+	<div class="prgImg">
+		<img src="https://africau.edu/wp-content/themes/africau/./images/int.jpg" alt="">
+		<div class="container pap">
+			<h3>Page not found</h3>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="breadcrumbs"><a href="https://africau.edu/">Home</a> &raquo; 404 Page Not Found</div>	</div>
+
+	<div class="ntfound">
+        <div class="container">
+            <h3>Page <span style="color: var(--the-red);">not</span> Found</h3>
+			<p>We're sorry, but we cannot locate the page you are looking for. You may have followed an outdated link, typed an invalid URL or the page may be impacted by scheduled web maintenance.</p>
+
+            <a class="ntlink" href="https://africau.edu/">Go back to Home</a>
+        </div>
+    </div>
+
+	
+
+<section class="footer">
+    <div class="main_footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-12 col-md-3">
+                <h4>ACADEMIC UNITS</h4>
+
+                    <div class="studyNav"><ul id="menu-study-navigation" class="menu"><li id="menu-item-435" class="menu-item menu-item-type-taxonomy menu-item-object-college menu-item-435"><a href="https://africau.edu/college/cbplg/">College of Business, Peace, Leadership and Governance</a></li>
+<li id="menu-item-436" class="menu-item menu-item-type-taxonomy menu-item-object-college menu-item-436"><a href="https://africau.edu/college/ceas/">College of Engineering and Applied Sciences</a></li>
+<li id="menu-item-437" class="menu-item menu-item-type-taxonomy menu-item-object-college menu-item-437"><a href="https://africau.edu/college/chans/">College of Health, Agriculture and Natural Sciences</a></li>
+<li id="menu-item-438" class="menu-item menu-item-type-taxonomy menu-item-object-college menu-item-438"><a href="https://africau.edu/college/cssthe/">College of Social Sciences, Theology, Humanities and Education</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-taxonomy menu-item-object-college menu-item-439"><a href="https://africau.edu/college/law/">School of Law</a></li>
+</ul></div>
+            </div>
+
+            <div class="col-sm-12 col-md-3">
+                <h4>PROSPECTIVE STUDENTS</h4>
+
+                    <div class="exploreNav"><ul id="menu-explore" class="menu"><li id="menu-item-429" class="menu-item menu-item-type-post_type_archive menu-item-object-program menu-item-429"><a href="https://africau.edu/program/">View all programs</a></li>
+<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="https://africau.edu/study-at-au/international-students/">International Students</a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="https://africau.edu/campus-life/">Campus Life</a></li>
+<li id="menu-item-3091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3091"><a href="https://africau.edu/financial-assistance/">Financial Assistance</a></li>
+<li id="menu-item-432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a target="_blank" rel="noopener" href="https://africau.edu/audemo/resource/auprospectus.pdf">AU Prospectus</a></li>
+<li id="menu-item-3092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3092"><a href="https://africau.edu/study-at-au/tuition-and-fees/">Tuition and Fees</a></li>
+<li id="menu-item-433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433"><a target="_blank" rel="noopener" href="https://acacia.africau.ac.zw/enquire/">Enquiries</a></li>
+<li id="menu-item-640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640"><a target="_blank" rel="noopener" href="https://acacia.africau.ac.zw/signup/">Apply Now</a></li>
+</ul></div>
+            </div>
+
+            <div class="col-sm-12 col-md-3">
+                <h4>RESOURCES</h4>
+
+                    <div class="lifeNav"><ul id="menu-life-at-au" class="menu"><li id="menu-item-446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-446"><a target="_blank" rel="noopener" href="http://aumail.africau.edu">AU Mail</a></li>
+<li id="menu-item-441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-441"><a target="_blank" rel="noopener" href="https://support.africau.ac.zw/">Support Center</a></li>
+<li id="menu-item-442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a target="_blank" rel="noopener" href="https://webpac.africau.ac.zw/">Library Webpac</a></li>
+<li id="menu-item-443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-443"><a target="_blank" rel="noopener" href="https://africau.edu/resource/calendar2024.pdf">Academic Calendar</a></li>
+<li id="menu-item-444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-444"><a target="_blank" rel="noopener" href="#">AU Policies</a></li>
+<li id="menu-item-3270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3270"><a target="_blank" rel="noopener" href="https://africau.edu/resource/austrategicplan.pdf">Strategic Plan 2023-2027</a></li>
+</ul></div>
+            </div>
+
+            <div class="col-sm-12 col-md-3">
+                <h4>CONTACT US</h4>
+                <h5><strong>Main Campus</strong></h5>
+                <p><i class="fa fa-solid fa-phone " style="color: #ffffff;"></i> +263 8688002151</p>
+                <p><a href="mailto:info@africau.edu">info@africau.edu</a></p>
+                <p><i class="fas fa-address-card" style="color: #ffffff;"></i> AU, 1 Fairview Rd, Old Mutare, Zimbabwe</p>
+                <h5><strong>AU Harare Centre</strong></h5>
+                <p><i class="fa fa-solid fa-phone" style="color: #ffffff;"></i> +26324764296</p>
+                <p><i class="fa fa-solid fa-phone" style="color: #ffffff;"></i> +263778879492</p>
+                <p> <a href="mailto:hreapplications@africau.edu">hreapplications@africau.edu</a></p>
+                <p><i class="fas fa-address-card" style="color: #ffffff;"></i> 38 Lanark Road, Avondale, Harare</p>
+                 <div class="social-icons">
+                    <div class="stay-connected">STAY CONNECTED</div>
+                    <a href="https://www.facebook.com/africauniversityzimbabwe?ref=tn_tnmn" target="_blank" class="social-icon"><i class="fab fa-facebook"></i></a>
+                    <a href="https://twitter.com/Africa_Univ" target="_blank" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" height="23" width="23" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path fill="#ffffff" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></a>
+                    <a href="https://www.instagram.com/africauniversity/" target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <!-- Add more social icons as needed -->
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    </div>
+
+ 
+
+
+
+    <div class="footer_rights">
+    <div class="fluid-container for-footer">
+        <div class="container">
+            <footer class="site-footer">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">&#169 2024 Africa University. All Rights Reserved</div>
+
+                </div>
+            </footer>
+        </div>
+    </div>
+    </div>
+
+</section>
+<!-- 
+<section>
+	<button class="whatsapp-icon chat-bot"></button> </section> -->
+
+					<div class='ays-pb-modals av_pop_modals_1 ays-pb-close-popup-with-esc ' style='min-width: 100%;'>
+                        <input type='hidden' value='fadeIn' id='ays_pb_modal_animate_in_1'>
+                        <input type='hidden' value='fadeIn' id='ays_pb_modal_animate_in_mobile_1'>
+                        <input type='hidden' value='fadeOutUpBig' id='ays_pb_modal_animate_out_1'>
+                        <input type='hidden' value='fadeOutUpBig' id='ays_pb_modal_animate_out_mobile_1'>
+                        <input type='hidden' value='1000' id='ays_pb_animation_close_speed_1'>
+                        <input type='hidden' value='1000' id='ays_pb_animation_close_speed_mobile_1'>
+                        <label for='ays-pb-modal-checkbox_1' class='ays-pb-visually-hidden-label'>modal-check</label>
+						<input id='ays-pb-modal-checkbox_1' class='ays-pb-modal-check' type='checkbox'/>
+                        
+                        
+                <div class='ays-pb-modal ays-pb-modal_1    ays-popup-box-main-box ays-pb-bg-styles-mobile_1 ays-pb-border-mobile_1' data-ays-flag='true' style=';width: 490px; height: 740px; background-color:rgba(255,255,255,0); color: #000000 !important; border: 0px  solid #ffffff; border-radius: 7px;font-family:inherit;;' >
+                    
+                    <h2 class='ays_pb_hide_title_on_mobile ays_pb_title_styles_1' style='color:#000000 !important; font-family:inherit; ; font-size: 24px; margin: 0; font-weight: normal; display: none'>Demo Title</h2>
+                    
+                <div class='ays_content_box' style='padding: 0px'><p><iframe src = "../chat-bot/" width = "450px" height = "600px"></iframe></p>
+</div>
+                    
+                    <div class='ays-pb-dismiss-ad ays_pb_display_none' data-dismiss='' data-id='1'>
+                        <button id='ays_pb_dismiss_ad'>
+                            <span class='ays_pb_dismiss_ad_text_pc'>Dismiss ad</span>
+                            <span class='ays_pb_dismiss_ad_text_mobile'>Dismiss ad</span>
+                        </button>
+                    </div>
+                    <p class='ays_pb_timer   ays_pb_timer_1'>This will close in  <span data-seconds='0' data-ays-seconds='0' data-ays-mobile-seconds='0'>0</span> seconds</p>
+                    <div class='ays-pb-modal-close ays-close-button-on-off ays-pb-modal-close_1 ays-pb-close-button-delay ays_pb_pause_sound_1' style='color: #000000 !important; font-family:inherit;transform:scale(1)' data-toggle='tooltip' title=''></div>
+                </div><script>if (window.innerWidth < 768) { jQuery(document).find('.ays-pb-modal_1').css({'top': '0', 'right': '0', 'bottom': '0', 'left': '0'}); } else { jQuery(document).find('.ays-pb-modal_1').css({'top': '0', 'right': '0', 'bottom': '0', 'left': '0'}); }</script><div id='ays-pb-screen-shade_1' overlay='overlay_1' data-mobile-overlay='false'></div>
+                        <input type='hidden' class='ays_pb_delay_1' value='0'/>
+                        <input type='hidden' class='ays_pb_delay_mobile_1' value='0'/>
+                        <input type='hidden' class='ays_pb_scroll_1' value='0'/>
+                        <input type='hidden' class='ays_pb_scroll_mobile_1' value='0'/>
+                        <input type='hidden' class='ays_pb_abt_1' value='clickSelector'/>
+					</div>                   
+                    <style>
+                        .ays-pb-modal_1{
+                            
+                            max-height: none;
+                        }
+
+                        .ays-pb-modal_1, .av_pop_modals_1 {
+                            display:none;
+                        }
+                        .ays-pb-modal-check:checked ~ #ays-pb-screen-shade_1 {
+                            opacity: 0.5;
+                            pointer-events: auto;
+                        }
+
+                        .ays_notification_window.ays-pb-modal_1 div.ays_pb_notification_button_1 button {
+                            background: #F66123;
+                            color: #FFFFFF;
+                            font-size: 15px;
+                            border-radius: 6px;
+                            border: none;
+                            padding: 12px 32px;
+                            box-shadow: none;
+                            letter-spacing: 0;
+                            text-transform: none;
+                            text-decoration: none;
+                        }
+
+                        .ays_notification_window.ays-pb-modal_1 div.ays_pb_notification_button_1 button:hover {
+                            background: #F66123;
+                            color: #FFFFFF;
+                        }
+
+                        .ays_cmd_window {
+                            background-color: rgba(39, 174, 96, 0.5);
+                        }
+                        
+                        .ays_cmd_window-cursor .ays_cmd_i-cursor-underscore {
+                            background-color: black;
+                        }
+                        
+                        .ays_cmd_window-cursor .ays_cmd_i-cursor-indicator {
+                            background-color: transparent;
+                        }
+
+                        .ays-pb-modal_1 .ays_pb_description > *, 
+                        .ays-pb-modal_1 .ays_pb_timer,
+                        .ays-pb-modal_1 .ays_content_box p,
+                        .ays-pb-modal_1 .ays-pb-dismiss-ad > button#ays_pb_dismiss_ad{
+                            color: #000000;
+                            font-family: inherit;
+                        }
+
+                        .ays-pb-modal_1 .close-image-btn{
+                            color: #000000 !important;
+                        }    
+
+                        .ays-pb-modal_1 .close-image-btn:hover,
+                        .ays-pb-modal_1 .close-template-btn:hover{
+                            color: #000000 !important;
+                        }    
+
+                        .ays-pb-modal_1 .ays_pb_material_close_circle_icon{
+                            fill: #000000 !important;
+                        }
+
+                        .ays-pb-modal_1 .ays_pb_material_close_circle_icon:hover{
+                            fill: #000000 !important;
+                        }
+                        
+                        .ays-pb-modal_1 .ays_pb_material_close_icon{
+                            fill: #000000 !important;
+                        }
+                        
+                        .ays-pb-modal_1 .ays_pb_material_close_icon:hover{
+                            fill: #000000 !important;
+                        }
+                        
+                        #ays-pb-screen-shade_1 {
+                            opacity: 0;
+                            background: rgb(0,0,0);
+                            position: absolute;
+                            left: 0;
+                            right: 0;
+                            top: 0;
+                            bottom: 0;
+                            pointer-events: none;
+                            transition: opacity 0.8s;
+                            ;
+                        }
+
+                        .ays-pb-modal_1.fadeIn{
+                            animation-duration: 1s !important;
+                        }
+                        .ays-pb-modal_1.fadeOutUpBig {
+                            animation-duration: 1s !important;
+                        }
+
+                        .ays-pb-disable-scroll-on-popup{
+                             
+                            
+                        }
+                        .ays_lil_window .ays_lil_main,
+                        .ays_window.ays-pb-modal_1 .ays_pb_description,
+                        .ays_win98_window.ays-pb-modal_1 .ays_pb_description,
+                        .ays_cmd_window.ays-pb-modal_1 .ays_pb_description,
+                        .ays_winxp_window.ays-pb-modal_1 .ays_pb_description,
+                        .ays_ubuntu_window.ays-pb-modal_1 .ays_pb_description{
+                            
+                        }
+                        
+                        .ays-pb-modals .ays-pb-modal_1 .ays_pb_description + hr{
+                            
+                        }
+
+                        .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_lil_head, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_topBar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_cmd_window-header, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_topbar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_tools, .ays-pb-modal_1 .ays_winxp_title-bar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_win98_head, .ays-pb-modal_1 .ays_cmd_window-header, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_cmd_window-cursor, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_folder-info.ays_pb_timer_1, .ays_cmd_window-content .ays_pb_timer.ays_pb_timer_1{
+                            
+                            
+                        }
+                        .ays_cmd_window-content .ays_pb_timer.ays_pb_timer_1{
+                            
+                        }
+                        .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_pb_description ~ ays-pb-modal .ays_pb_description{
+                            
+                        }
+
+                        .ays-pb-modal_1 .ays-pb-modal-close_1:hover .close-lil-btn {
+                            transform: rotate(180deg) scale(1) !important;
+                        }
+
+                        .ays_pb_hide_timer_on_pc {
+                            visibility: hidden;
+                        }
+
+                        @media screen and (max-width: 768px){
+                            .ays-pb-modal_1{
+                                width: 100% !important;
+                                max-width: 100% !important;
+                                height : 740px !important;
+                                box-shadow: unset !important;
+                                box-sizing: border-box;
+                                max-height: none;
+                            }
+
+                            .ays_cmd_window {
+                                background-color: rgba(39, 174, 96, 0.5);
+                            }
+
+                            #ays-pb-screen-shade_1 {
+                                background: rgb(0,0,0);
+                            }
+
+                            .ays-pb-modal_1.ays-pb-bg-styles-mobile_1,
+                            footer.ays_template_footer.ays-pb-bg-styles-mobile_1 div.ays_bg_image_box {
+                                background-image: unset !important
+                            }
+
+                            .ays-pb-bg-styles-mobile_1 {
+                                background-color: rgba(255,255,255,0) !important;
+                            }
+
+                            .ays-pb-border-mobile_1 {
+                                border : 0px solid #ffffff !important;
+                                border-radius: 7px !important;
+                            }
+
+                            .ays_pb_title_styles_1 {
+                                text-shadow: unset !important;
+                            }
+
+                            .ays-pb-modal_1  .ays_pb_description > p{
+                                font-size: 13px !important;
+                                word-break: break-word !important;
+                                word-wrap: break-word;
+                            }
+
+                            .ays-pb-modal_1.ays_template_window p.ays_pb_timer.ays_pb_timer_1{
+                                right: 20%;bottom:0;
+                            }
+
+                            .ays-pb-modal_1 div.ays_image_content p.ays_pb_timer.ays_pb_timer_1,
+                            .ays-pb-modal_1.ays_minimal_window p.ays_pb_timer.ays_pb_timer_1,
+                            .ays-pb-modal_1.ays_video_window p.ays_pb_timer.ays_pb_timer_1{
+                                bottom: px !important;
+                            }
+
+                            .ays-pb-modal_1.ays_template_window footer.ays_template_footer{
+                                flex-direction: column;align-items: center;justify-content: start;
+                            }
+
+                            .ays-pb-modal_1.ays_template_window div.ays_bg_image_box{
+                                width:100%; height:180px;
+                            }
+
+                            #ays-pb-screen-shade_1 {
+                                -webkit-backdrop-filter: none;
+                backdrop-filter: none;
+                opacity:0.5 !important;;
+                            }
+
+                            .ays-pb-modal_1.fadeIn{
+                                animation-duration: 1s !important;
+                            }
+                            .ays-pb-modal_1.fadeOutUpBig {
+                                animation-duration: 1s !important;
+                            }
+
+                            .ays-pb-disable-scroll-on-popup{
+                                overflow:auto !important; 
+                                overflow-y: auto !important
+                            }
+
+                            .ays-pb-modals .ays-pb-modal_1 .ays_pb_description + hr{
+                                display:block;
+                            }
+
+                            .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_lil_head, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_topBar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_cmd_window-header, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_topbar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_tools, .ays-pb-modal_1 .ays_winxp_title-bar, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_win98_head, .ays-pb-modal_1 .ays_cmd_window-header, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_cmd_window-cursor, .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_ubuntu_folder-info.ays_pb_timer_1, .ays_cmd_window-content .ays_pb_timer.ays_pb_timer_1{
+                                position:sticky;
+                                width:auto
+                            }
+
+                            .ays-pb-modals.av_pop_modals_1 .ays-pb-modal_1 .ays_pb_description ~ ays-pb-modal .ays_pb_description{
+                                padding:0;
+                            }
+
+                            .ays_cmd_window-content .ays_pb_timer.ays_pb_timer_1{
+                                bottom:6px
+                            }
+
+                            .ays_lil_window .ays_lil_main,
+                            .ays_window.ays-pb-modal_1 .ays_pb_description,
+                            .ays_win98_window.ays-pb-modal_1 .ays_pb_description,
+                            .ays_cmd_window.ays-pb-modal_1 .ays_pb_description,
+                            .ays_winxp_window.ays-pb-modal_1 .ays_pb_description,
+                            .ays_ubuntu_window.ays-pb-modal_1 .ays_pb_description{
+                                margin-top: 0;
+                            }
+
+                            .ays_pb_hide_timer_on_pc {
+                                visibility: visible;
+                            }
+
+                            .ays_pb_hide_timer_on_mobile {
+                                visibility: hidden !important;
+                            }
+                        }
+                    </style>
+                                    
+                    <script>
+                        (function( $ ) {
+                            'use strict';
+                        $(document).ready(function(){
+                            let pbViewsFlag_1 = true;
+                            var ays_flag = true;
+                            var show_only_once = 'off';
+                            let isMobile = false;
+                            let closePopupOverlay = 1;
+                            let isPageScrollDisabled = 0;
+                            let checkAnimSpeed = 1;
+                            let ays_pb_animation_close_speed = $(document).find('#ays_pb_animation_close_speed_1').val();
+                            let ays_pb_effectIn_1 = $(document).find('#ays_pb_modal_animate_in_1').val();
+                            let ays_pb_effectOut_1 = $(document).find('#ays_pb_modal_animate_out_1').val();
+                            if (window.innerWidth < 768) {
+                                isMobile = true;
+                                closePopupOverlay = 1;
+                                isPageScrollDisabled = 0;
+                                checkAnimSpeed = 1;
+                                ays_pb_animation_close_speed = $(document).find('#ays_pb_animation_close_speed_mobile_1').val();
+                                ays_pb_effectIn_1 = $(document).find('#ays_pb_modal_animate_in_mobile_1').val();
+                                ays_pb_effectOut_1 = $(document).find('#ays_pb_modal_animate_out_mobile_1').val();
+                            }
+                            $(document).on('click', '.chat-bot', function(){
+                                var actionSelector = '.chat-bot';
+                                if(actionSelector.length === 0) {
+                                    return;
+                                }
+
+                                $(document).find('.ays_pb_music_sound').css({'display':'block'});
+
+                                if(show_only_once == 'on'){
+                                    $.ajax({
+                                        url: 'https://africau.edu/wp-admin/admin-ajax.php',
+                                        method: 'post',
+                                        dataType: 'json',
+                                        data: {
+                                            action: 'ays_pb_set_cookie_only_once',
+                                            id: 1,
+                                            title: 'Demo Title',
+                                        },
+                                    });
+                                }
+                             
+                              var dataAttr = $(document).find('.ays-pb-modal_1').attr('data-ays-flag');
+                              if(ays_flag && dataAttr == 'true'){
+                                ays_flag = false;
+                                $(document).find('.av_pop_modals_1').css('display','block');
+                                $(document).find('.av_pop_modals_1').css('pointer-events', 'auto');
+
+                                if (window.innerWidth < 768) {
+                                    $(document).find('.ays_pb_timer_1 span').html($(document).find('.ays_pb_timer_1 span').attr('data-ays-mobile-seconds'));
+                                }
+                                else{
+                                    $(document).find('.ays_pb_timer_1 span').html($(document).find('.ays_pb_timer_1 span').attr('data-ays-seconds'));
+
+                                }
+                                
+                                clearInterval(timer_pb_1);
+                                timer_pb_1 = null;
+                                $(document).find('.ays-pb-modal_1').removeClass(ays_pb_effectOut_1);
+                                $(document).find('.ays-pb-modal_1').addClass(ays_pb_effectIn_1);
+                                $(document).find('.ays-pb-modal_1').css('display', 'block');
+                                
+                                if (window.innerWidth < 768 && $(document).find('#ays-pb-screen-shade_1').attr('data-mobile-overlay') == 'true') {
+                                    $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0.5', 'display': 'block'});
+                                }
+                                else{
+                                    $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0.500000', 'display': 'block'});
+                                }
+                                $(document).find('.ays-pb-modal-check_1').prop('checked', true);
+                                $(document).find('.ays-pb-modal-check_1').attr('checked', true);
+                                var ays_pb_animation_close_seconds = (ays_pb_animation_close_speed / 1000);
+                                var sound_src = $(document).find('#ays_pb_sound_1').attr('src');
+                                var close_sound_src = $(document).find('#ays_pb_close_sound_1').attr('src');
+
+                                ays_pb_animation_close_speed = parseFloat(ays_pb_animation_close_speed) - 50;
+                                
+                                if ('off' === 'on' && typeof sound_src !== 'undefined'){
+                                    $('#ays_pb_sound_1').get(0).play();
+                                    $(document).find('.ays_pb_pause_sound_1').on('click',function(){
+                                        var audio = $('#ays_pb_sound_1').get(0);
+                                        audio.pause();
+                                        audio.currentTime = 0;
+                                    });
+                                }
+                                //close sound start
+                                if(checkAnimSpeed && typeof close_sound_src !== 'undefined' && 'off' === 'on'){
+                                    if(checkAnimSpeed !== 0){
+                                        $(document).find('.ays_pb_pause_sound_1').on('click',function(){
+                                            $('#ays_pb_close_sound_1').get(0).play();
+                                            if(ays_pb_effectOut_1 != 'none'){
+                                                setTimeout(function(){
+                                                    $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                        var audio = $('#ays_pb_close_sound_1').get(0);
+                                                        audio.pause();
+                                                        audio.currentTime = 0;
+                                                        clearInterval(timer_pb_1);
+                                                }, ays_pb_animation_close_speed);
+                                            }else{
+                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                var audio = $('#ays_pb_close_sound_1').get(0);
+                                                audio.pause();
+                                                audio.currentTime = 0;
+                                            }
+                                        });
+                                    }
+                                }
+                                //close sound end
+
+                                var time_pb_str_1 = $(document).find('.ays_pb_timer_1 span').attr('data-ays-seconds');
+                                if (window.innerWidth < 768) {
+                                    var mobileTimer = +$(document).find('.ays_pb_timer_1 span').attr('data-ays-mobile-seconds');
+                                    $(document).find('.ays_pb_timer_1 span').html(mobileTimer);
+                                    time_pb_str_1 = mobileTimer;
+                                }
+                                var time_pb_1 = parseInt(time_pb_str_1);
+                                if(time_pb_1 !== undefined){ 
+                                 if(time_pb_1 !== 0){
+                                    var timer_pb_1 = setInterval(function(){
+                                        let newTime_pb_1 = time_pb_1--;
+                                        $(document).find('.ays_pb_timer_1 span').text(newTime_pb_1);
+                                        $(document).find('.ays-pb-modal_1').css({
+                                            'animation-duration': ays_pb_animation_close_seconds + 's'
+                                        }); 
+                                        if(newTime_pb_1 <= 0){
+                                            $(document).find('.ays-pb-modal-close_1').trigger('click');
+                                            $(document).find('.ays-pb-modal_1').attr('class', 'ays-pb-modal ays-pb-modal_1  '+ays_pb_effectOut_1);
+                                            
+                                            if(ays_pb_effectOut_1 != 'none'){
+                                                setTimeout(function(){
+                                                    $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                    ays_flag = true;
+                                                }, ays_pb_animation_close_speed);
+                                            }else{
+                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                ays_flag = true;
+                                            }
+                                            if ('off' === 'on' && typeof sound_src !== 'undefined'){
+                                                var audio = $('#ays_pb_sound_1').get(0);
+                                                audio.pause();
+                                                audio.currentTime = 0;
+                                                clearInterval(timer_pb_1);
+                                            }
+                                            if ('1' && typeof close_sound_src !== 'undefined' && 'off' === 'on'){
+                                                if(checkAnimSpeed !== 0){
+                                                    $('#ays_pb_close_sound_1').get(0).play();
+                                                    if(ays_pb_effectOut_1 != 'none'){
+                                                        setTimeout(function(){
+                                                            $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                            ays_flag = true;
+                                                                var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                audio.pause();
+                                                                audio.currentTime = 0;
+                                                                clearInterval(timer_pb_1);
+                                                        }, ays_pb_animation_close_speed);
+                                                    }else{
+                                                        $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                            ays_flag = true;
+                                                            var audio = $('#ays_pb_close_sound_1').get(0);
+                                                            audio.pause();
+                                                            audio.currentTime = 0;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                        $(document).find('.ays-pb-modal-close_1').one('click', function(){
+                                            if (pbViewsFlag_1) {
+                                                var pb_id = 1;
+
+                                                $.ajax({
+                                                    url: pbLocalizeObj.ajax,
+                                                    method: 'POST',
+                                                    dataType: 'text',
+                                                    data: {
+                                                        id: pb_id,
+                                                        action: 'ays_increment_pb_views',
+                                                    },
+                                                });
+
+                                                pbViewsFlag_1 = false;
+                                            }
+                                            $(document).find('.av_pop_modals_1').css('pointer-events', 'none');
+                                            $(document).find('.ays-pb-modal_1').attr('class', 'ays-pb-modal ays-pb-modal_1    ays-pb-border-mobile_1 '+ays_pb_effectOut_1);
+                                            $(this).parents('.ays-pb-modals').find('iframe').each(function(){
+                                                var key = /https:\/\/www.youtube.com/;
+                                                var src = $(this).attr('src');
+                                                $(this).attr('src', $(this).attr('src'));
+                                            });
+                                            $(this).parents('.ays-pb-modals').find('video.wp-video-shortcode').each(function(){
+                                                if(typeof $(this).get(0) != 'undefined'){
+                                                    if ( ! $(this).get(0).paused ) {
+                                                        $(this).get(0).pause();
+                                                    }
+
+                                                }
+                                            });
+                                            $(this).parents('.ays-pb-modals').find('audio.wp-audio-shortcode').each(function(){
+                                                if(typeof $(this).get(0) != 'undefined'){
+                                                    if ( ! $(this).get(0).paused ) {
+                                                        $(this).get(0).pause();
+                                                    }
+
+                                                }
+                                            });
+                                            
+                                            if(ays_pb_effectOut_1 != 'none'){
+                                                setTimeout(function(){ 
+                                                    $(document).find('.ays-pb-modal_1').css('display', 'none'); 
+                                                    ays_flag = true;
+                                                }, ays_pb_animation_close_speed);  
+                                            }else{
+                                                $(document).find('.ays-pb-modal_1').css('display', 'none'); 
+                                                ays_flag = true;
+                                            }
+                                            $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0', 'display': 'none'});
+                                            clearInterval(timer_pb_1);
+                                        });
+                                        
+                                        var ays_pb_flag =  true;
+                                        $(document).on('keydown', function(event) { 
+                                            if('1' && ays_pb_flag){
+                                                var escClosingPopups = $(document).find('.ays-pb-close-popup-with-esc:visible');
+                                                if (event.keyCode == 27) {
+                                                    var topmostPopup = escClosingPopups.last();
+                                                    topmostPopup.find('.ays-pb-modal-close_1').trigger('click');
+                                                    ays_pb_flag = false;
+                                                    if ('off' === 'on' && typeof sound_src !== 'undefined'){
+                                                        var audio = $('#ays_pb_sound_1').get(0);
+                                                        audio.pause();
+                                                        audio.currentTime = 0;
+                                                        clearInterval(timer_pb_1);
+                                                    }
+                                                    if(checkAnimSpeed && typeof close_sound_src !== 'undefined' && 'off' === 'on'){
+                                                        if(checkAnimSpeed !== 0){
+                                                            $('#ays_pb_close_sound_1').get(0).play();
+                                                            if(ays_pb_effectOut_1 != 'none'){
+                                                                setTimeout(function(){
+                                                                    $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                        var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                        audio.pause();
+                                                                        audio.currentTime = 0;
+                                                                        clearInterval(timer_pb_1);
+                                                                }, ays_pb_animation_close_speed);
+                                                            }else{
+                                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                audio.pause();
+                                                                audio.currentTime = 0;
+                                                                clearInterval(timer_pb_1);
+                                                            }
+                                                        }
+                                                    }
+                                                } 
+                                            } else {
+                                                ays_pb_flag = true;
+                                            }
+                                        });
+                                    }, 1000);
+                                    if('clickSelector' != 'both'){
+                                        if(closePopupOverlay && 'On' == 'On'){
+                                            $(document).find('#ays-pb-screen-shade_1').on('click', function() {
+                                                var pb_parent_div = $(this).find('.ays-pb-modals');
+                                                var pb_div = $(this).parents('.ays-pb-modals').find('.ays-pb-modal_1');
+                                                if (!pb_parent_div.is(pb_div) && pb_parent_div.has(pb_div).length === 0){
+                                                    $(document).find('.ays-pb-modal-close_1').click();
+                                                    if ('off' === 'on' && typeof sound_src !== 'undefined'){
+                                                        var audio = $('#ays_pb_sound_1').get(0);
+                                                        audio.pause();
+                                                        audio.currentTime = 0;
+                                                        clearInterval(timer_pb_1);
+                                                    }
+                                                    if(checkAnimSpeed && typeof close_sound_src !== 'undefined' && 'off' === 'on'){
+                                                        if(checkAnimSpeed !== 0){
+                                                            $('#ays_pb_close_sound_1').get(0).play();
+                                                            if(ays_pb_effectOut_1 != 'none'){
+                                                                setTimeout(function(){
+                                                                    $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                        var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                        audio.pause();
+                                                                        audio.currentTime = 0;
+                                                                }, ays_pb_animation_close_speed);
+                                                            }else{
+                                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                audio.pause();
+                                                                audio.currentTime = 0;
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            });
+                                        }
+                                    }else{
+                                        if(closePopupOverlay && 'On' == 'On'){
+                                            $(document).find('.av_pop_modals_1').on('click', function(e) {
+                                                var pb_parent_div = $(this);
+                                                var pb_div = $(this).find('.ays-pb-modal_1');
+                                                if (!pb_div.is(e.target) && pb_div.has(e.target).length === 0){
+                                                    $(document).find('.ays-pb-modal-close_1').click();
+                                                    if ('off' === 'on' && typeof sound_src !== 'undefined'){
+                                                        var audio = $('#ays_pb_sound_1').get(0);
+                                                        audio.pause();
+                                                        audio.currentTime = 0;
+                                                        clearInterval(timer_pb_1);
+                                                    }
+                                                    if(checkAnimSpeed && typeof close_sound_src !== 'undefined' && 'off' === 'on'){
+                                                        if(checkAnimSpeed !== 0){
+                                                            $('#ays_pb_close_sound_1').get(0).play();
+                                                            if(ays_pb_effectOut_1 != 'none'){
+                                                                setTimeout(function(){
+                                                                    $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                        var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                        audio.pause();
+                                                                        audio.currentTime = 0;
+                                                                        clearInterval(timer_pb_1);
+                                                                }, ays_pb_animation_close_speed);
+                                                            }else{
+                                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                                var audio = $('#ays_pb_close_sound_1').get(0);
+                                                                audio.pause();
+                                                                audio.currentTime = 0;
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            });
+                                        }
+                                    }   
+                                } else {
+                                     $(document).find('.ays_pb_timer_1').css('display','none');
+                                     $(document).find('.ays-pb-modal_1').css({
+                                        'animation-duration': ays_pb_animation_close_seconds + 's'
+                                     }); 
+                                     $(document).find('.ays-pb-modal-close_1').one('click', function(){
+                                        if (pbViewsFlag_1) {
+                                            var pb_id = 1;
+
+                                            $.ajax({
+                                                url: pbLocalizeObj.ajax,
+                                                method: 'POST',
+                                                dataType: 'text',
+                                                data: {
+                                                    id: pb_id,
+                                                    action: 'ays_increment_pb_views',
+                                                },
+                                            });
+
+                                            pbViewsFlag_1 = false;
+                                        }
+                                        $(document).find('.av_pop_modals_1').css('pointer-events', 'none');
+                                        $(document).find('.ays-pb-modal_1').attr('class', 'ays-pb-modal  ays-pb-modal_1  ays-pb-border-mobile_1 '+ays_pb_effectOut_1);
+                                        $(this).parents('.ays-pb-modals').find('iframe').each(function(){
+                                            var key = /https:\/\/www.youtube.com/;
+                                            var src = $(this).attr('src');
+                                            $(this).attr('src', $(this).attr('src'));
+                                        });
+                                        $(this).parents('.ays-pb-modals').find('video.wp-video-shortcode').each(function(){
+                                            if(typeof $(this).get(0) != 'undefined'){
+                                                if ( ! $(this).get(0).paused ) {
+                                                    $(this).get(0).pause();
+                                                }
+
+                                            }
+                                        });
+                                        $(this).parents('.ays-pb-modals').find('audio.wp-audio-shortcode').each(function(){
+                                            if(typeof $(this).get(0) != 'undefined'){
+                                                if ( ! $(this).get(0).paused ) {
+                                                    $(this).get(0).pause();
+                                                }
+
+                                            }
+                                        });
+                                        if(ays_pb_effectOut_1 != 'none'){
+                                            setTimeout(function(){
+                                                $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                                $(document).find('.av_pop_modals_1').css('display', 'none');
+                                                ays_flag = true;
+                                            }, ays_pb_animation_close_speed);  
+                                        }else{
+                                            $(document).find('.ays-pb-modal_1').css('display', 'none');
+                                            $(document).find('.av_pop_modals_1').css('display', 'none');
+                                            ays_flag = true;
+                                        }
+                                        
+                                        $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0', 'display': 'none'});
+                                        });
+                                    }
+                                }
+
+
+                                if(isPageScrollDisabled){
+                                    $(document).find('body').addClass('pb_disable_scroll_1');
+                                    $(document).find('html').addClass('pb_disable_scroll_1');
+
+                                    jQuery(document).on('click', '.ays-pb-modal-close_1', function() {
+                                        $(document).find('body').removeClass('pb_disable_scroll_1');
+                                        $(document).find('html').removeClass('pb_disable_scroll_1');
+                                    });
+                                }
+
+                                if ('On' != 'On'){
+                                    $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0', 'display': 'none !important', 'pointer-events': 'none'});
+                                    $(document).find('.ays-pb-modal_1').css('pointer-events', 'auto');
+                                    $(document).find('.av_pop_modals_1').css('pointer-events','none');
+                                };
+                                if('false' == 'true' && window.innerWidth < 768){
+                                    if(0 != 0 && 'on' != 'on'){
+                                        $(document).find('.ays-pb-modal-close_1').css({'display': 'none'});
+                                        setTimeout(function(){ 
+                                            $(document).find('.ays-pb-modal-close_1').css({'display': 'block'});
+                                        },0);
+                                    }
+                                }
+                                else{
+                                    if(0 != 0 && 'on' != 'on'){
+                                        $(document).find('.ays-pb-modal-close_1').css({'display': 'none'});
+                                        setTimeout(function(){ 
+                                            $(document).find('.ays-pb-modal-close_1').css({'display': 'block'});
+                                        },0);
+                                    }
+                                }
+                              }
+                            // if(0 == 0){
+                                if(closePopupOverlay && 'On' == 'On'){
+                                    $(document).find('.av_pop_modals_1').on('click', function(e) {
+                                        var pb_parent = $(this);
+                                        var pb_div = $(this).find('.ays-pb-modal_1');
+                                        if (!pb_div.is(e.target) && pb_div.has(e.target).length === 0){
+                                            $(document).find('.ays-pb-modal-close_1').click();
+                                        }
+                                    });
+                                }
+                                var ays_pb_flag = true;
+                                $(document).on('keydown', function(event) { 
+                                    if('1' && ays_pb_flag){
+                                        var escClosingPopups = $(document).find('.ays-pb-close-popup-with-esc:visible');
+                                        if (event.keyCode == 27) {
+                                            var topmostPopup = escClosingPopups.last();
+                                            topmostPopup.find('.ays-pb-modal-close_1').trigger('click');
+                                            ays_pb_flag = false;
+                                        }
+                                    } else {
+                                        ays_pb_flag = true;
+                                    }
+                                });
+                            // }
+                            });
+                            if ('On' != 'On'){
+                                $(document).find('#ays-pb-screen-shade_1').css({'opacity': '0', 'display': 'none !important', 'pointer-events': 'none'});
+                                $(document).find('.ays-pb-modal_1').css('pointer-events', 'auto');
+                                $(document).find('.av_pop_modals_1').css('pointer-events','none');
+                            };
+                            if('clickSelector' != 'both'){
+                                if($(document).find('.ays-pb-modals video').hasClass('wp-video-shortcode')){
+                                    var videoWidth  = $(document).find('.ays-pb-modals video.wp-video-shortcode').attr('width');
+                                    var videoHeight = $(document).find('.ays-pb-modals video.wp-video-shortcode').attr('height');
+                                    setTimeout(function(){
+                                        $(document).find('.ays-pb-modals .wp-video').removeAttr('style');
+                                        $(document).find('.ays-pb-modals .mejs-container').removeAttr('style');
+                                        $(document).find('.ays-pb-modals video.wp-video-shortcode').removeAttr('style');
+
+                                        $(document).find('.ays-pb-modals .wp-video').css({'width': '100%'});
+                                        $(document).find('.ays-pb-modals .mejs-container').css({'width': '100%','height': videoHeight + 'px'});
+                                        $(document).find('.ays-pb-modals video.wp-video-shortcode').css({'width': '100%','height': videoHeight + 'px'});
+                                    },1000);
+                                }
+                                if($(document).find('.ays-pb-modals iframe').attr('style') != ''){
+                                    setTimeout(function(){
+                                        $(document).find('.ays-pb-modals iframe').removeAttr('style');
+                                    },500);
+                                }
+                            }
+                            if('off' == 'on') {
+                                var video = $(document).find('video.wp-video-shortcode');
+                                for (let i = 0; i < video.length; i++) {
+                                    video[i].addEventListener('ended', function() {
+                                        if ($(this).next().val() === 'on') {
+                                            $(this).parents('.ays_video_window').find('.close-image-btn').trigger('click');
+                                        }
+                                    });
+                                }
+                            }
+                        });
+                    })( jQuery );
+                </script>
+                <script>
+                    if(typeof aysPopupOptions === "undefined"){
+                        var aysPopupOptions = [];
+                    }
+                    aysPopupOptions["1"]  = "eyJwb3B1cGJveCI6eyJpZCI6IjEiLCJ0aXRsZSI6IkRlbW8gVGl0bGUiLCJwb3B1cF9uYW1lIjoiIiwiZGVzY3JpcHRpb24iOiIiLCJjYXRlZ29yeV9pZCI6IjEiLCJhdXRvY2xvc2UiOiIwIiwiY29va2llIjoiMCIsIndpZHRoIjo0OTAsImhlaWdodCI6NzQwLCJiZ2NvbG9yIjoicmdiYSgyNTUsMjU1LDI1NSwwKSIsInRleHRjb2xvciI6IiMwMDAwMDAiLCJib3JkZXJzaXplIjoiMCIsImJvcmRlcmNvbG9yIjoiI2ZmZmZmZiIsImJvcmRlcl9yYWRpdXMiOiI3Iiwic2hvcnRjb2RlIjoiIiwidXNlcnNfcm9sZSI6IltdIiwiY3VzdG9tX2NsYXNzIjoiIiwiY3VzdG9tX2NzcyI6IiIsImN1c3RvbV9odG1sIjoiPGlmcmFtZSBzcmMgPSBcIi4uXC9jaGF0LWJvdFwvXCIgd2lkdGggPSBcIjQ1MHB4XCIgaGVpZ2h0ID0gXCI2MDBweFwiPjxcL2lmcmFtZT4iLCJvbm9mZnN3aXRjaCI6Ik9uIiwic2hvd19vbmx5X2Zvcl9hdXRob3IiOiJvZmYiLCJzaG93X2FsbCI6ImFsbCIsImRlbGF5IjoiMCIsInNjcm9sbF90b3AiOiIwIiwiYW5pbWF0ZV9pbiI6ImZhZGVJbiIsImFuaW1hdGVfb3V0IjoiZmFkZU91dFVwQmlnIiwiYWN0aW9uX2J1dHRvbiI6Ii5jaGF0LWJvdCIsInZpZXdfcGxhY2UiOiIiLCJhY3Rpb25fYnV0dG9uX3R5cGUiOiJjbGlja1NlbGVjdG9yIiwibW9kYWxfY29udGVudCI6ImN1c3RvbV9odG1sIiwidmlld190eXBlIjoiZGVmYXVsdCIsIm9ub2Zmb3ZlcmxheSI6Ik9uIiwib3ZlcmxheV9vcGFjaXR5IjoiMC41MDAwMDAiLCJzaG93X3BvcHVwX3RpdGxlIjoiT2ZmIiwic2hvd19wb3B1cF9kZXNjIjoiT2ZmIiwiY2xvc2VfYnV0dG9uIjoib24iLCJoZWFkZXJfYmdjb2xvciI6InJnYmEoMjU1LDI1NSwyNTUsMCkiLCJiZ19pbWFnZSI6IiIsImxvZ191c2VyIjoiT24iLCJndWVzdCI6Ik9uIiwiYWN0aXZlX2RhdGVfY2hlY2siOiJvZmYiLCJhY3RpdmVJbnRlcnZhbCI6IjIwMjQtMDMtMjEgMDc6MTA6MzEiLCJkZWFjdGl2ZUludGVydmFsIjoiMjAyNC0wMy0yMSAwNzoxMDozMSIsInBiX3Bvc2l0aW9uIjoiY2VudGVyLWNlbnRlciIsInBiX21hcmdpbiI6IjAiLCJ2aWV3cyI6IjIyMiIsImNvbnZlcnNpb25zIjoiMCIsIm9wdGlvbnMiOiJ7XCJlbmFibGVfYmFja2dyb3VuZF9ncmFkaWVudFwiOlwib2ZmXCIsXCJiYWNrZ3JvdW5kX2dyYWRpZW50X2NvbG9yXzFcIjpcIiMwMDBcIixcImJhY2tncm91bmRfZ3JhZGllbnRfY29sb3JfMlwiOlwiI2ZmZlwiLFwicGJfZ3JhZGllbnRfZGlyZWN0aW9uXCI6XCJ2ZXJ0aWNhbFwiLFwiZW5hYmxlX2JhY2tncm91bmRfZ3JhZGllbnRfbW9iaWxlXCI6XCJvZmZcIixcImJhY2tncm91bmRfZ3JhZGllbnRfY29sb3JfMV9tb2JpbGVcIjpcIiMwMDBcIixcImJhY2tncm91bmRfZ3JhZGllbnRfY29sb3JfMl9tb2JpbGVcIjpcIiNmZmZcIixcInBiX2dyYWRpZW50X2RpcmVjdGlvbl9tb2JpbGVcIjpcInZlcnRpY2FsXCIsXCJleGNlcHRfcG9zdF90eXBlc1wiOltdLFwiZXhjZXB0X3Bvc3RzXCI6W10sXCJhbGxfcG9zdHNcIjpcIlwiLFwiY2xvc2VfYnV0dG9uX2RlbGF5XCI6MCxcImNsb3NlX2J1dHRvbl9kZWxheV9mb3JfbW9iaWxlXCI6MCxcImVuYWJsZV9jbG9zZV9idXR0b25fZGVsYXlfZm9yX21vYmlsZVwiOlwib2ZmXCIsXCJlbmFibGVfcGJfc291bmRcIjpcIm9mZlwiLFwib3ZlcmxheV9jb2xvclwiOlwiIzAwMFwiLFwiZW5hYmxlX292ZXJsYXlfY29sb3JfbW9iaWxlXCI6XCJvZmZcIixcIm92ZXJsYXlfY29sb3JfbW9iaWxlXCI6XCIjMDAwXCIsXCJhbmltYXRpb25fc3BlZWRcIjoxLFwiZW5hYmxlX2FuaW1hdGlvbl9zcGVlZF9tb2JpbGVcIjpcIm9mZlwiLFwiYW5pbWF0aW9uX3NwZWVkX21vYmlsZVwiOjEsXCJjbG9zZV9hbmltYXRpb25fc3BlZWRcIjoxLFwiZW5hYmxlX2Nsb3NlX2FuaW1hdGlvbl9zcGVlZF9tb2JpbGVcIjpcIm9mZlwiLFwiY2xvc2VfYW5pbWF0aW9uX3NwZWVkX21vYmlsZVwiOjEsXCJwYl9tb2JpbGVcIjpcIm9mZlwiLFwiY2xvc2VfYnV0dG9uX3RleHRcIjpcIlxcdTI3MTVcIixcImVuYWJsZV9jbG9zZV9idXR0b25fdGV4dF9tb2JpbGVcIjpcIm9uXCIsXCJjbG9zZV9idXR0b25fdGV4dF9tb2JpbGVcIjpcIlxcdTI3MTVcIixcImNsb3NlX2J1dHRvbl9ob3Zlcl90ZXh0XCI6XCJcIixcIm1vYmlsZV93aWR0aFwiOlwiXCIsXCJtb2JpbGVfbWF4X3dpZHRoXCI6XCJcIixcIm1vYmlsZV9oZWlnaHRcIjpcIlwiLFwiY2xvc2VfYnV0dG9uX3Bvc2l0aW9uXCI6XCJyaWdodC10b3BcIixcImVuYWJsZV9jbG9zZV9idXR0b25fcG9zaXRpb25fbW9iaWxlXCI6XCJvZmZcIixcImNsb3NlX2J1dHRvbl9wb3NpdGlvbl9tb2JpbGVcIjpcInJpZ2h0LXRvcFwiLFwic2hvd19vbmx5X29uY2VcIjpcIm9mZlwiLFwic2hvd19vbl9ob21lX3BhZ2VcIjpcIm9mZlwiLFwiY2xvc2VfcG9wdXBfZXNjXCI6XCJvblwiLFwicG9wdXBfd2lkdGhfYnlfcGVyY2VudGFnZV9weFwiOlwicGl4ZWxzXCIsXCJwb3B1cF9jb250ZW50X3BhZGRpbmdcIjowLFwicG9wdXBfcGFkZGluZ19ieV9wZXJjZW50YWdlX3B4XCI6XCJwaXhlbHNcIixcInBiX2ZvbnRfZmFtaWx5XCI6XCJpbmhlcml0XCIsXCJjbG9zZV9wb3B1cF9vdmVybGF5XCI6XCJvblwiLFwiY2xvc2VfcG9wdXBfb3ZlcmxheV9tb2JpbGVcIjpcIm9uXCIsXCJlbmFibGVfcGJfZnVsbHNjcmVlblwiOlwib2ZmXCIsXCJlbmFibGVfaGlkZV90aW1lclwiOlwib2ZmXCIsXCJlbmFibGVfaGlkZV90aW1lcl9tb2JpbGVcIjpcIm9mZlwiLFwiZW5hYmxlX2F1dG9jbG9zZV9vbl9jb21wbGV0aW9uXCI6XCJvZmZcIixcImVuYWJsZV9zb2NpYWxfbGlua3NcIjpcIm9mZlwiLFwic29jaWFsX2xpbmtzXCI6e1wibGlua2VkaW5fbGlua1wiOlwiXCIsXCJmYWNlYm9va19saW5rXCI6XCJcIixcInR3aXR0ZXJfbGlua1wiOlwiXCIsXCJ2a29udGFrdGVfbGlua1wiOlwiXCIsXCJ5b3V0dWJlX2xpbmtcIjpcIlwiLFwiaW5zdGFncmFtX2xpbmtcIjpcIlwiLFwiYmVoYW5jZV9saW5rXCI6XCJcIn0sXCJzb2NpYWxfYnV0dG9uc19oZWFkaW5nXCI6XCJcIixcImNsb3NlX2J1dHRvbl9zaXplXCI6MSxcImNsb3NlX2J1dHRvbl9pbWFnZVwiOlwiXCIsXCJib3JkZXJfc3R5bGVcIjpcInNvbGlkXCIsXCJlbmFibGVfYm9yZGVyX3N0eWxlX21vYmlsZVwiOlwib2ZmXCIsXCJib3JkZXJfc3R5bGVfbW9iaWxlXCI6XCJzb2xpZFwiLFwiYXlzX3BiX2hvdmVyX3Nob3dfY2xvc2VfYnRuXCI6XCJvZmZcIixcImRpc2FibGVfc2Nyb2xsXCI6XCJvZmZcIixcImRpc2FibGVfc2Nyb2xsX21vYmlsZVwiOlwib2ZmXCIsXCJlbmFibGVfb3Blbl9kZWxheV9tb2JpbGVcIjpcIm9mZlwiLFwib3Blbl9kZWxheV9tb2JpbGVcIjpcIjBcIixcImVuYWJsZV9zY3JvbGxfdG9wX21vYmlsZVwiOlwib2ZmXCIsXCJzY3JvbGxfdG9wX21vYmlsZVwiOlwiMFwiLFwiZW5hYmxlX3BiX3Bvc2l0aW9uX21vYmlsZVwiOlwib2ZmXCIsXCJwYl9wb3NpdGlvbl9tb2JpbGVcIjpcImNlbnRlci1jZW50ZXJcIixcInBiX2JnX2ltYWdlX3Bvc2l0aW9uXCI6XCJjZW50ZXItY2VudGVyXCIsXCJlbmFibGVfcGJfYmdfaW1hZ2VfcG9zaXRpb25fbW9iaWxlXCI6XCJvZmZcIixcInBiX2JnX2ltYWdlX3Bvc2l0aW9uX21vYmlsZVwiOlwiY2VudGVyLWNlbnRlclwiLFwicGJfYmdfaW1hZ2Vfc2l6aW5nXCI6XCJjb3ZlclwiLFwiZW5hYmxlX3BiX2JnX2ltYWdlX3NpemluZ19tb2JpbGVcIjpcIm9mZlwiLFwicGJfYmdfaW1hZ2Vfc2l6aW5nX21vYmlsZVwiOlwiY292ZXJcIixcInZpZGVvX3RoZW1lX3VybFwiOlwiXCIsXCJwYl9tYXhfaGVpZ2h0XCI6XCJcIixcInBvcHVwX21heF9oZWlnaHRfYnlfcGVyY2VudGFnZV9weFwiOlwicGl4ZWxzXCIsXCJwYl9tYXhfaGVpZ2h0X21vYmlsZVwiOlwiXCIsXCJwb3B1cF9tYXhfaGVpZ2h0X2J5X3BlcmNlbnRhZ2VfcHhfbW9iaWxlXCI6XCJwaXhlbHNcIixcInBiX21pbl9oZWlnaHRcIjpcIlwiLFwicGJfZm9udF9zaXplXCI6MTMsXCJwYl9mb250X3NpemVfZm9yX21vYmlsZVwiOjEzLFwicGJfdGl0bGVfdGV4dF9zaGFkb3dcIjpcInJnYmEoMjU1LDI1NSwyNTUsMClcIixcImVuYWJsZV9wYl90aXRsZV90ZXh0X3NoYWRvd1wiOlwib2ZmXCIsXCJwYl90aXRsZV90ZXh0X3NoYWRvd194X29mZnNldFwiOjIsXCJwYl90aXRsZV90ZXh0X3NoYWRvd195X29mZnNldFwiOjIsXCJwYl90aXRsZV90ZXh0X3NoYWRvd196X29mZnNldFwiOjAsXCJwYl90aXRsZV90ZXh0X3NoYWRvd19tb2JpbGVcIjpcInJnYmEoMjU1LDI1NSwyNTUsMClcIixcImVuYWJsZV9wYl90aXRsZV90ZXh0X3NoYWRvd19tb2JpbGVcIjpcIm9mZlwiLFwicGJfdGl0bGVfdGV4dF9zaGFkb3dfeF9vZmZzZXRfbW9iaWxlXCI6MixcInBiX3RpdGxlX3RleHRfc2hhZG93X3lfb2Zmc2V0X21vYmlsZVwiOjIsXCJwYl90aXRsZV90ZXh0X3NoYWRvd196X29mZnNldF9tb2JpbGVcIjowLFwiY3JlYXRlX2RhdGVcIjpcIjIwMjQtMDMtMjEgMDY6Mjc6NDJcIixcImNyZWF0ZV9hdXRob3JcIjo3LFwiYXV0aG9yXCI6XCJ7XFxcImlkXFxcIjpcXFwiN1xcXCIsXFxcIm5hbWVcXFwiOlxcXCJSb3VuYWsgQmhhZGFuaWFcXFwifVwiLFwiZW5hYmxlX2Rpc21pc3NcIjpcIm9mZlwiLFwiZW5hYmxlX2Rpc21pc3NfdGV4dFwiOlwiRGlzbWlzcyBhZFwiLFwiZW5hYmxlX2Rpc21pc3NfbW9iaWxlXCI6XCJvZmZcIixcImVuYWJsZV9kaXNtaXNzX3RleHRfbW9iaWxlXCI6XCJEaXNtaXNzIGFkXCIsXCJlbmFibGVfYm94X3NoYWRvd1wiOlwib2ZmXCIsXCJlbmFibGVfYm94X3NoYWRvd19tb2JpbGVcIjpcIm9mZlwiLFwiYm94X3NoYWRvd19jb2xvclwiOlwiIzAwMFwiLFwiYm94X3NoYWRvd19jb2xvcl9tb2JpbGVcIjpcIiMwMDBcIixcInBiX2JveF9zaGFkb3dfeF9vZmZzZXRcIjowLFwicGJfYm94X3NoYWRvd194X29mZnNldF9tb2JpbGVcIjowLFwicGJfYm94X3NoYWRvd195X29mZnNldFwiOjAsXCJwYl9ib3hfc2hhZG93X3lfb2Zmc2V0X21vYmlsZVwiOjAsXCJwYl9ib3hfc2hhZG93X3pfb2Zmc2V0XCI6MTUsXCJwYl9ib3hfc2hhZG93X3pfb2Zmc2V0X21vYmlsZVwiOjE1LFwiZGlzYWJsZV9zY3JvbGxfb25fcG9wdXBcIjpcIm9mZlwiLFwiZGlzYWJsZV9zY3JvbGxfb25fcG9wdXBfbW9iaWxlXCI6XCJvZmZcIixcInNob3dfc2Nyb2xsYmFyXCI6XCJvZmZcIixcImhpZGVfb25fcGNcIjpcIm9mZlwiLFwiaGlkZV9vbl90YWJsZXRzXCI6XCJvZmZcIixcInBiX2JnX2ltYWdlX2RpcmVjdGlvbl9vbl9tb2JpbGVcIjpcIm9uXCIsXCJjbG9zZV9idXR0b25fY29sb3JcIjpcIiMwMDAwMDBcIixcImNsb3NlX2J1dHRvbl9ob3Zlcl9jb2xvclwiOlwiIzAwMDAwMFwiLFwiYmx1cmVkX292ZXJsYXlcIjpcIm9mZlwiLFwiYmx1cmVkX292ZXJsYXlfbW9iaWxlXCI6XCJvZmZcIixcInBiX2F1dG9jbG9zZV9tb2JpbGVcIjpcIjIwXCIsXCJlbmFibGVfYXV0b2Nsb3NlX2RlbGF5X3RleHRfbW9iaWxlXCI6XCJvZmZcIixcImVuYWJsZV9vdmVybGF5X3RleHRfbW9iaWxlXCI6XCJvZmZcIixcIm92ZXJsYXlfbW9iaWxlX29wYWNpdHlcIjpcIjAuNVwiLFwic2hvd19wb3B1cF90aXRsZV9tb2JpbGVcIjpcIk9mZlwiLFwic2hvd19wb3B1cF9kZXNjX21vYmlsZVwiOlwiT2ZmXCIsXCJlbmFibGVfYW5pbWF0ZV9pbl9tb2JpbGVcIjpcIm9mZlwiLFwiYW5pbWF0ZV9pbl9tb2JpbGVcIjpcImZhZGVJblwiLFwiZW5hYmxlX2FuaW1hdGVfb3V0X21vYmlsZVwiOlwib2ZmXCIsXCJhbmltYXRlX291dF9tb2JpbGVcIjpcImZhZGVPdXRVcEJpZ1wiLFwiZW5hYmxlX2Rpc3BsYXlfY29udGVudF9tb2JpbGVcIjpcIm9mZlwiLFwiZW5hYmxlX2JnY29sb3JfbW9iaWxlXCI6XCJvZmZcIixcImJnY29sb3JfbW9iaWxlXCI6XCIjZmZmZmZmXCIsXCJlbmFibGVfYmdfaW1hZ2VfbW9iaWxlXCI6XCJvZmZcIixcImJnX2ltYWdlX21vYmlsZVwiOlwiXCIsXCJlbmFibGVfYm9yZGVyY29sb3JfbW9iaWxlXCI6XCJvZmZcIixcImJvcmRlcmNvbG9yX21vYmlsZVwiOlwiI2ZmZmZmZlwiLFwiZW5hYmxlX2JvcmRlcnNpemVfbW9iaWxlXCI6XCJvZmZcIixcImJvcmRlcnNpemVfbW9iaWxlXCI6XCIxXCIsXCJlbmFibGVfYm9yZGVyX3JhZGl1c19tb2JpbGVcIjpcIm9mZlwiLFwiYm9yZGVyX3JhZGl1c19tb2JpbGVcIjpcIjdcIn0iLCJzaG93X3BvcHVwX3RpdGxlX21vYmlsZSI6Ik9mZiIsInNob3dfcG9wdXBfZGVzY19tb2JpbGUiOiJPZmYifX0=";
+                </script><!-- Custom Facebook Feed JS -->
+<script type="text/javascript">var cffajaxurl = "https://africau.edu/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";
+</script>
+<!-- YouTube Feeds JS -->
+<script type="text/javascript">
+
+</script>
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://africau.edu/wp-admin/admin-ajax.php";
+
+</script>
+<link rel='stylesheet' id='ays-pb-min-css' href='https://africau.edu/wp-content/plugins/ays-popup-box/public/css/ays-pb-public-min.css?ver=4.7.8' media='all' />
+<script src="https://africau.edu/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?ver=4.2.5" id="cffscripts-js"></script>
+<script src="https://africau.edu/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="custom-ajax-script-js-extra">
+var ajax_object = {"ajaxurl":"https:\/\/africau.edu\/wp-admin\/admin-ajax.php","nonce":"3655b1ce07"};
+</script>
+<script src="https://africau.edu/wp-content/themes/africau/js/custom-ajax-script.js" id="custom-ajax-script-js"></script>
+<script src="https://africau.edu/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.6" id="smush-lazy-load-js"></script>
+<script src="https://africau.edu/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script id="megamenu-js-extra">
+var megamenu = {"timeout":"300","interval":"100"};
+</script>
+<script src="https://africau.edu/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.3.1.2" id="megamenu-js"></script>
+<script src="https://africau.edu/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.2.8" id="megamenu-pro-js"></script>
+<script id="gt_widget_script_16869767-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['16869767'] = {"default_language":"en","languages":["en","fr","pt"],"url_structure":"none","flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-16869767","alt_flags":[],"horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+</script><script src="https://africau.edu/wp-content/plugins/gtranslate/js/fc.js?ver=6.6.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/images/default/sample.pdf" data-gt-orig-domain="africau.edu" data-gt-widget-id="16869767" defer></script>    </body>
+</html>
